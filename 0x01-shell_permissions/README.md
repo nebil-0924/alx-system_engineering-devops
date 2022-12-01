@@ -1,1 +1,1 @@
-script for shell permissions
+1-whoami
